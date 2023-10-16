@@ -1,5 +1,5 @@
 # Campana de Gauss
-#
+# https://github.com/DavidNietoVinuesa/Campana.git
 
 Título: La Operación de Galton en la Fábrica de Campanas de Gauss
 En el año 1850, en un universo paralelo donde la tecnología avanzó rápidamente, Sir Francis Galton creó un dispositivo que llamó la "máquina de la distribución normal". Esta máquina, basada en su tablero de Galton, demostró que al caer bolas a través de una serie de clavos en ángulo, la distribución final de las bolas en los contenedores inferiores formaba una curva de campana, también conocida como una distribución normal o Gaussiana.
